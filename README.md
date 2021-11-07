@@ -1,3 +1,4 @@
 # hello-world
+test repo.
 
-Testing out the Github with thier given tutorial.
+Basic hello-world program in C and C++.
